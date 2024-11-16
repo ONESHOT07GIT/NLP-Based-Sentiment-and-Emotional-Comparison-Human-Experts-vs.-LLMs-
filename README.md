@@ -27,7 +27,7 @@ Two years ago , we never thought that LLMs could be a possibility in the near fu
 
 We aggregate our data from two sources: onsite interviews with corporate experts and five widely popular LLMs: ChatGPT, Google Gemini, Microsoft Copilot, Claude, and Perplexity. We directed all questions asked, both to human experts and LLMs, in a business context.
 
-![1731746275333](image/README/1731746275333.png)
+![1731746917529](image/README/1731746917529.png)
 
 ##### Data Extraction & Structuring :
 
@@ -39,7 +39,7 @@ Both manual and automated transcription methods were used to convert audio inter
 
 **We performed the following NLP preprocessings:**
 
-![1731743414015](image/README/1731743414015.png)
+![1731746929448](image/README/1731746929448.png)
 
 [PREPROCESSED DATA](https://github.com/ONESHOT07GIT/NLP-Based-Sentiment-and-Emotional-Comparison-Human-Experts-vs.-LLMs-/blob/main/preprocessed_responses.csv "CSV FILE")
 
@@ -64,7 +64,7 @@ Everything is not just about code,algorithm and output, so we manually analyze h
 
 We used five large language models (LLMs)—ChatGPT, Google Gemini, Microsoft Copilot, Claude, and Perplexity—to generate responses to questions asked of corporate specialists. These AI-generated responses are then analyzed to compare emotional depth, sentiment, lexical complexity, and other factors against responses from human professionals.
 
-![1731743016198](image/README/1731743016198.png)
+![1731747096514](image/README/1731747096514.png)
 
 ## Theoretical/Experimental Work
 
@@ -74,31 +74,31 @@ Using descriptive statistics, we evaluated the average length and word diversity
 
 ##### Sentiment Analysis:
 
-![1731743744844](image/README/1731743744844.png)
+![1731746955606](image/README/1731746955606.png)
 
 ##### Emotional Analysis
 
-![1731743827873](image/README/1731743827873.png)
+![1731746970699](image/README/1731746970699.png)
 
 ## Results and Discussion
 
 ### Descriptive Statistics
 
-![1731743584851](image/README/1731743584851.png)
+![1731746985227](image/README/1731746985227.png)
 
-![1731743647428](image/README/1731743647428.png)
+![1731746994879](image/README/1731746994879.png)
 
 ### Sentiment Analysis Results
 
-![1731744497748](image/README/1731744497748.png)
+![1731747004516](image/README/1731747004516.png)
 
-![1731744544733](image/README/1731744544733.png)
+![1731747012444](image/README/1731747012444.png)
 
-![1731744602136](image/README/1731744602136.png)
+![1731747072164](image/README/1731747072164.png)
 
 ### Emotional Diversity Analysis Results
 
-![1731744728023](image/README/1731744728023.png)
+![1731747082042](image/README/1731747082042.png)
 
 ### Manual comparison
 
