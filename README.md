@@ -1,6 +1,6 @@
 # NLP-Based Sentiment and Emotional Comparison: Human Experts vs. LLMs
 
-### Email: [adityaanand10122002@gmail.com](mailto: adityaanand10122002@gmail.com "EMAIL ID")
+### Email: adityaanand10122002@gmail.com
 
 ## Code Repository
 
