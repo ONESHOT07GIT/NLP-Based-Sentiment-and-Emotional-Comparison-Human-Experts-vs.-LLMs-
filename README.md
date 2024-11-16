@@ -27,7 +27,7 @@ Two years ago , we never thought that LLMs could be a possibility in the near fu
 
 We aggregate our data from two sources: onsite interviews with corporate experts and five widely popular LLMs: ChatGPT, Google Gemini, Microsoft Copilot, Claude, and Perplexity. We directed all questions asked, both to human experts and LLMs, in a business context.
 
-![1731743476639](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/adity/OneDrive/Documents/GitHub/NLP-Based-Sentiment-and-Emotional-Comparison-Human-Experts-vs.-LLMs-/image/README/1731743476639.png)
+![1731746275333](image/README/1731746275333.png)
 
 ##### Data Extraction & Structuring :
 
